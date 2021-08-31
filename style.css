@@ -1,0 +1,46 @@
+
+:root {
+    margin: 0;
+}
+
+
+h1 {
+    text-align: center;
+  
+}
+
+#first {
+    width: 500px;
+    height: 500px;
+    border: solid 3px black;
+    padding: 50px;
+    margin: 60px auto;     
+    position: relative;
+}
+
+
+/*Tried to do 100px by 100px but it would not work for some reason. Square looked way too small. */
+#second  {
+    
+    width: 250px; 
+    height: 250px;
+    text-align: center;
+    border: solid 3px black;
+    padding: 60px 60px;
+    margin: 50px auto;
+    position: relative;
+}
+    
+
+#third {
+    
+    
+    width: 5px;
+    height: 5px;
+    text-align: center;
+    border: solid 3px black;
+    padding: 60px 60px;
+    margin: 60px auto;  
+    position: relative;
+  
+}
